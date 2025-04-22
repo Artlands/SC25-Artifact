@@ -1,1 +1,5 @@
-This repo contains the artifact of the SC25 submission (**A Hardware-Software Co-design Approach for the Partitioned Global Address Space Model**)
+This repo contains the artifact for the SC25 submission (pap732s2: *A Hardware-Software Co-design Approach for the Partitioned Global Address Space Model*)
+
+The `xBGAS` folder contains the benchmarks adapted for the xBGAS architecture. 
+
+The `OpenSHMEM-baseline` folder contains the benchmarks for OpenSHMEM. 
