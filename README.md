@@ -1,0 +1,1 @@
+This repo contains the artifact of the SC25 submission (**A Hardware-Software Co-design Approach for the Partitioned Global Address Space Model**)
